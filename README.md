@@ -4,3 +4,5 @@ Executed 1st iteration of LightGBM model to predict interest rates for loan appl
 Predicts interest rates with Root Means Square Error of 0.21 (0.21% in terms of APR i.e. Annual Percentage Rate) on Test set.
 
 Feature engineering was not done for this iteration.
+
+Data source - https://www.kaggle.com/wordsforthewise/lending-club
