@@ -6,3 +6,5 @@ Predicts interest rates with Root Means Square Error of 0.21 (0.21% in terms of 
 Feature engineering was not done for this iteration.
 
 Data source - https://www.kaggle.com/wordsforthewise/lending-club
+
+PS: This is an old project.
